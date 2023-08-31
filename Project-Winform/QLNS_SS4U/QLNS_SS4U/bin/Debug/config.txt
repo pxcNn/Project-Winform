@@ -1,0 +1,1 @@
+Data Source=DESKTOP-42GU85A;Initial Catalog=QLNS_SS4U;Integrated Security=True
